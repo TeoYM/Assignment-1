@@ -365,7 +365,7 @@
   .Header1{
     display: flex;
     justify-content: center;
-    font-size: 35px;
+    font-size: 30px;
     font: bold;
   }
   .Para{
@@ -382,7 +382,15 @@
   .Header2{
     display: flex;
     justify-content: center;
-    font-size: 35px;
+    font-size: 30px;
     font: bold;
     margin-top: 400px;
+  }
+  .Header3{
+    font-size: 20px;
+    margin-top: 400px;
+  }
+  .reviews-img img{
+    width: 300px;
+    height: 300px;
   }
