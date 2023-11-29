@@ -409,3 +409,17 @@
     height: auto;
     margin-top: 40px;
   }
+  .side-col{
+    background-color: aliceblue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu{
+    font-size: 30px;
+    margin: 30px;
+  }
+  .main-content {
+  display: flex;
+  justify-content: center;
+}
