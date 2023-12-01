@@ -84,3 +84,12 @@
   font-size: 40px;
   padding: 20px 30px;
 }
+.buyyes{
+  display: flex;
+  justify-content: center;
+}
+.storebutton{
+  font-size: 40px;
+  padding: 20px 30px;
+  color: red;
+}
