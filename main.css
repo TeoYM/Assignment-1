@@ -1,0 +1,86 @@
+.image-con{
+    display: flex;
+    justify-content: center;
+  }
+  .flex-con{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    font-size: 24px;
+    margin: 5px;
+    background-color: rgb(155, 155, 155);
+  }
+  .background{
+    display: flex;
+    justify-content: center;
+  }
+  .Header1{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font: bold;
+  }
+  .Para{
+    width: 950px;
+    height: 300px;
+    border: 2px solid red;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 20%;
+  }
+  .Header2{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font: bold;
+    margin-top: 400px;
+  }
+  .Header3{
+    font-size: 20px;
+    margin-top: 400px;
+  }
+  .reviews-img img{
+    max-width: 100%;
+    height: 400px;
+  }
+  .reviews-img{
+    display: flex;
+    justify-content: space-evenly;
+    border: 2px solid red;
+  }
+  .Pricelist img{
+    max-width: 200%;
+    max-height: 200%
+  }
+  .Contact-Info img{
+    width: 45px;
+    height: auto;
+    margin-top: 40px;
+  }
+  .side-col{
+    background-color: aliceblue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  .menu{
+    font-size: 30px;
+    margin: 30px;
+  }
+  .main-content img {
+  width: 100%;
+}
+.main-content{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  border: 2px solid red;
+  font:bold;
+}
+.button{
+  font-size: 40px;
+  padding: 20px 30px;
+}
